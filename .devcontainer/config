@@ -1,9 +1,9 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = myaccount
-username = myusername
-password = mypassword
+accountname = epkdrzs-hc55635
+username = EconofiCKVAL
+password = outrider1BLACKOUT.jimmy4package
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
